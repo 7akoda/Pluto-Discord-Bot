@@ -1,0 +1,1 @@
+A simple Discord bot that given the title of any game available on the platform Steam will create an embed with a description (if available) prices, available third party stores, and most importantly the best deals
