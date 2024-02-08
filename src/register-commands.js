@@ -33,16 +33,6 @@ const commands = [
       },
     ],
   },
-
-  {
-    name: "self-own",
-    description: "Own yourself!",
-  },
-
-  {
-    name: "hack-anna",
-    description: "hack anna's computer (very easily without her knowing",
-  },
 ];
 
 const rest = new REST({ version: "10" }).setToken(process.env.TOKEN);
